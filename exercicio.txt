@@ -1,3 +1,27 @@
-eu sou foda
+Resumo do rpojeto: um sistema de organização de um estoque de uma loja de refrigerante
 
-teste
+
+
+
+Requisitos funcionais:
+
+O sistema deve permitir que a loja registre e organize os refris no estoque. As informações que precisam ser inseridas incluem:
+
+
+nome: o nome do refrijerante
+Marca: marca do refri
+preço: O preço de refri
+Quantidade no estoque: Quantidade de refris que ainda estão no guardados
+
+
+Cadastro do cliente:
+
+nome:
+telefone
+endereço
+
+
+
+
+
+
